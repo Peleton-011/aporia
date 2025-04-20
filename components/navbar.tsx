@@ -26,7 +26,7 @@ export const Navbar = () => {
 							font.className
 						)}
 					>
-						aporia
+						aporia.ai
 					</h1>
 				</Link>
 			</div>
